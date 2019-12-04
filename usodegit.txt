@@ -1,1 +1,3 @@
 Esto es un archivo de prueba para git y entender los cambion a futuro que se pueden hacer usando esta herramienta 
+
+curso Git capitulo 12
