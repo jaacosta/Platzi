@@ -10,3 +10,8 @@ h1
     text-align: left;
     background-color: deepskyblue;
 }
+p
+{
+    color: indigo;
+    text-align: right;
+}
