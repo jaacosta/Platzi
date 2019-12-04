@@ -11,3 +11,9 @@ h1
     text-align: left;
     background-color: deepskyblue;
 }
+div
+{
+    color: gainsboro;
+    background-color: gray;
+    font-family: 'Courier New', Courier, monospace;
+}
