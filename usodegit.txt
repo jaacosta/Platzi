@@ -2,6 +2,4 @@ Esto es un archivo de prueba para git y entender los cambion a futuro que se pue
 
 curso Git capitulo 12
 
-cambi en este archivo
-
-mas fruta en el archivo 
+listo los cambios!!!
