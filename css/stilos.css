@@ -16,3 +16,9 @@ p
     color: indigo;
     text-align: right;
 }
+
+#cabecera
+{
+    background-color: darkslategrey;
+    color: floralwhite;
+}
